@@ -1,0 +1,3 @@
+Python is easy to learn. Python is useful for students.
+Learning Python helps students understand programming.
+Python programming uses loops, functions, strings, and files.
